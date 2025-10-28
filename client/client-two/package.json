@@ -1,0 +1,16 @@
+{
+  "name": "client-two",
+  "version": "1.0.0",
+  "main": "client-2.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon client-2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "socket.io-client": "^4.8.1"
+  }
+}
